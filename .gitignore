@@ -1,0 +1,9 @@
+# Ddev config
+.ddev/*
+!.ddev/config.yaml
+
+# Composer
+vendor
+
+# Drupal
+web
